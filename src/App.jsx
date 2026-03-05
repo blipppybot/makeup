@@ -15,7 +15,7 @@ function App() {
           <ProductCard
           showSecondaryLabel
           image={{
-          src: "/src/assets/images/300Wx300H-90063.jpg",
+          src: "/images/300Wx300H-90063.jpg",
           alt: "Lash Sensational Firework Mascara Washable Electro Black 10mL",
           }}
           labelSecondary="Sponsored"
@@ -32,7 +32,7 @@ function App() {
 
         <ProductCard
           image={{
-          src: "/src/assets/images/300Wx300H-89623.jpg",
+          src: "/images/300Wx300H-89623.jpg",
           alt: "Thrill Seeker Lip Latex #150 Magnetic 6mL",
           }}
           brand="Rimmel London"
@@ -45,7 +45,7 @@ function App() {
         />
         <ProductCard
           image={{
-          src: "/src/assets/images/300Wx300H-94809.jpg",
+          src: "/images/300Wx300H-94809.jpg",
           alt: "Pro Artist Finishing Touch Setting Spray 80mL",
           }}
           brand="No7"
@@ -57,7 +57,7 @@ function App() {
 
         <ProductCard
           image={{
-          src: "/src/assets/images/300Wx300H-66247.jpg",
+          src: "/images/300Wx300H-66247.jpg",
           alt: "Mineral Eyeshadow Palette Sunset 6g",
           }}
           brand="Natio"
@@ -67,7 +67,7 @@ function App() {
 
         <ProductCard
           image={{
-          src: "/src/assets/images/300Wx300H-195950.jpg",
+          src: "/images/300Wx300H-195950.jpg",
           alt: "Good As New Nail Perfector 13.5mL",
           }}
           brand="Nude By Nature"
@@ -77,7 +77,7 @@ function App() {
 
         <ProductCard
           image={{
-          src: "/src/assets/images/300Wx300H-91107.jpg",
+          src: "/images/300Wx300H-91107.jpg",
           alt: "Perfect Skin Filter Foundation N6 Olive 30g",
           }}
           brand="Natio"
