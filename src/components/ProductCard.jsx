@@ -83,7 +83,7 @@ const config = pricingConfig[pricing?.type] || pricingConfig.default;
       </div>
 
       {/* CONTENT */}
-      <div className="flex flex-col flex-1">
+      <div className="flex flex-col flex-1 pt-3">
 
         <div className="">
         {/* TEXT BLOCK */}
